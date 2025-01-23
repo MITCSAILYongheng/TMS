@@ -8,6 +8,7 @@ Step 1: Export the csv file from the SCiLS Lab software
 
 Step 2: Convert csv file to an MSI image
 
+https://github.com/user-attachments/assets/c8b2bd0c-b6c8-4225-a979-0d4b1a6f30fe
 
 Step 3: Extract the cell boundary and cell type information from a SST image
 
