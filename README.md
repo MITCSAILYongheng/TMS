@@ -1,4 +1,4 @@
-# TMS
+# TransMetaSegmentation (TMS)
 
 This document describes the 4 steps required to co-register images from mass spectrometry imaging (MSI) and single-cell spatial transcriptomics (SST), segment the MSI image using the cell boundary and cell type information from the SST image, and quantify the metabolite signal in individual cells.
 
