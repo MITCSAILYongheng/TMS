@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/ae9332b0-86fe-4cd5-b855-65d9058e8554
 
 A high-resolution video is available here: https://www.youtube.com/watch?v=N6qMOrSuZVA
 
-### Step 4: Co-register MSI and SST images to measure mass spectrometry signal in each cell
+### Step 4: Co-register MSI and SST images to measure metabolite signal in each cell
 
 https://github.com/user-attachments/assets/9bc89542-3d38-437c-a069-a04b5b0dea8d
 
