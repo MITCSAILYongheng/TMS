@@ -20,5 +20,7 @@ A high-resolution video is available here: https://www.youtube.com/watch?v=N6qMO
 
 ### Step 4:
 
-Co-register 2 images
+Co-register MSI and SST images, and measure the mass spectrometry signal within each cell
+
+https://github.com/user-attachments/assets/a78ee4b8-193a-4815-8444-02b1f52c2ffe
 
