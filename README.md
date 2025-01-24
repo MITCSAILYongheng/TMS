@@ -12,4 +12,8 @@ Step 2: Convert csv file to an MSI image
 
 Step 3: Extract the cell boundary and cell type information from a SST image
 
+https://github.com/user-attachments/assets/71d321fd-b461-4e86-89bc-c869c30055c8
+
+
+
 https://github.com/user-attachments/assets/c8b2bd0c-b6c8-4225-a979-0d4b1a6f30fe
