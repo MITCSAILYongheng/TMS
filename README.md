@@ -36,3 +36,5 @@ https://github.com/user-attachments/assets/9bc89542-3d38-437c-a069-a04b5b0dea8d
 
 A high-resolution video is available here: https://www.youtube.com/watch?v=DPfilnj4YTk
 
+Replace the value max_spot_sum = 266.74240094392 with the maximum Sum value from step 2: 1663.5873994143.
+
