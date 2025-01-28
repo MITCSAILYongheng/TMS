@@ -12,6 +12,18 @@ https://github.com/user-attachments/assets/32300baf-3b86-4267-8918-cde93aa0fe22
 
 A high-resolution video is available here: https://www.youtube.com/watch?v=s7_lwnretkI
 
+The values in the following 4 locations needed to be changed based on the metabolite and CSV file size.
+
+1. target_value = 885.5360
+  
+2. tolerance = 0.0088 
+ 
+3. Numbers within range 885.5272 to 885.5447999999999 are found at positions: [77854, 77855, 77856]
+
+4. end_row = 281  
+
+Please note the largest Sum value printed. We will use this value in step 4. In this example, it is: "Spot Spot 206569: Sum = 1663.5873994143".
+
 ### Step 3: Extract the cell boundary and cell type information from SST image
 
 https://github.com/user-attachments/assets/ae9332b0-86fe-4cd5-b855-65d9058e8554
